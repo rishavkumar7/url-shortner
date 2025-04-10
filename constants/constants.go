@@ -1,7 +1,7 @@
 package constants
 
 const (
-	BaseUrl                  = "https://url-shortner-bjjsj2rjo-rishav-kumars-projects-4b2abfc6.vercel.app/"
+	BaseUrl                  = "https://url-shortner-mini.vercel.app/"
 	UrlShortnerPath          = "/short"
 	RedirectToLongUrlPath    = "/:code"
 	ShortUrlCodeCharacterSet = "abcdefghijklmnopqrstuvwxyz"
